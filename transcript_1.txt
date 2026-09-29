@@ -1,0 +1,12 @@
+[00:00:05] Priya: Okay let's get started, we have three things on the agenda today.
+[00:00:12] Priya: First, the Q3 report. Where are we on that?
+[00:00:18] Doom: I'll finish the Q3 report by Friday. I just need the sales numbers from finance.
+[00:00:27] Priya: Great, can you also loop in Sam on that?
+[00:00:31] Doom: Sure, Sam will review the draft before I send it out.
+[00:00:40] Priya: Second item, the client onboarding flow.
+[00:00:45] Sam: I think we discussed this already last week, nothing new there.
+[00:00:52] Priya: Right, moving on. Let's schedule the design review for next Tuesday.
+[00:01:03] Wanda: I can send the calendar invite for that today.
+[00:01:10] Priya: Perfect. Last thing, someone needs to update the onboarding docs.
+[00:01:18] Wanda: I'll take that, I should have it done by end of week.
+[00:01:25] Priya: Thanks everyone, that's all for today.

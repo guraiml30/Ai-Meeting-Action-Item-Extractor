@@ -1,0 +1,9 @@
+{
+  "transcript_id": "transcript_1",
+  "action_items": [
+    {"task": "finish the Q3 report", "owner": "Doom", "deadline_raw": "by Friday"},
+    {"task": "review the draft before it is sent out", "owner": "Sam", "deadline_raw": null},
+    {"task": "send the calendar invite for the design review", "owner": "Wanda", "deadline_raw": "today"},
+    {"task": "update the onboarding docs", "owner": "Wanda", "deadline_raw": "end of week"}
+  ]
+}

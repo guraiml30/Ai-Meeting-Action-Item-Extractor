@@ -1,0 +1,8 @@
+{
+  "transcript_id": "transcript_2",
+  "action_items": [
+    {"task": "write the new pricing page copy", "owner": "Jordan", "deadline_raw": "by next Wednesday"},
+    {"task": "test the checkout flow on mobile", "owner": "Riya", "deadline_raw": "end of day tomorrow"},
+    {"task": "get a decision from legal on the new terms of service", "owner": null, "deadline_raw": null}
+  ]
+}

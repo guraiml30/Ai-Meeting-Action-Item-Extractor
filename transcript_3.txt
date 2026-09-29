@@ -1,0 +1,27 @@
+[00:00:03] Marcus: Alright, thanks everyone for hopping on. This is our weekly product sync for the mobile team.
+[00:00:10] Marcus: Let's start with the app store submission. Where are we?
+[00:00:15] Elena: The build is basically ready. I'll submit the app store build by Thursday, once QA signs off.
+[00:00:24] Marcus: Great. Priya, can QA turn that around in time?
+[00:00:29] Priya: Should be fine, I'll finish the QA pass on the new build by Wednesday afternoon.
+[00:00:37] Marcus: Perfect. Second topic, the push notification bug that's been reported by a few users.
+[00:00:45] Devon: Yeah, I looked into it yesterday. I'll fix the push notification bug and have a patch ready by end of day tomorrow.
+[00:00:55] Marcus: Nice, that one's been annoying. Do we need to notify support about it?
+[00:01:02] Priya: I can do that, I'll send a note to the support team about the notification issue today.
+[00:01:10] Marcus: Thanks. Moving on, let's talk about the Q4 roadmap planning doc.
+[00:01:18] Elena: I think Jordan was supposed to own that?
+[00:01:22] Marcus: Right, Jordan isn't here today, so let's circle back on that next week.
+[00:01:29] Marcus: Fourth item, the analytics dashboard redesign. Devon, how's that going?
+[00:01:36] Devon: Making progress. I'll have the first draft of the dashboard mockups ready by next Monday.
+[00:01:44] Marcus: Can you also loop in the design team for feedback?
+[00:01:48] Devon: Sure, I'll share the mockups with design for feedback once the draft's done.
+[00:01:56] Marcus: Great. Now, we also had a customer escalation last week, the enterprise client with the login timeout issue.
+[00:02:05] Priya: That one's actually already resolved, we shipped the fix last sprint.
+[00:02:10] Marcus: Good to hear. Let's also decide on the vendor for the new crash reporting tool.
+[00:02:18] Elena: I don't think we've narrowed it down yet, we should get a decision from the platform team on that.
+[00:02:26] Marcus: Okay, someone needs to follow up with platform on the crash reporting vendor decision.
+[00:02:33] Devon: I can chase that, I'll follow up with the platform team about the vendor decision by Friday.
+[00:02:41] Marcus: Appreciate it. Last thing, don't forget the all-hands presentation is coming up.
+[00:02:48] Elena: Right, I'll put together the slides for the all-hands by end of next week.
+[00:02:56] Marcus: Perfect, and can someone update the changelog for this release before it goes out?
+[00:03:03] Priya: I'll take that, I'll update the changelog before Thursday's release.
+[00:03:10] Marcus: Excellent, I think that covers everything. Thanks all, talk next week

@@ -1,0 +1,14 @@
+{
+  "transcript_id": "transcript_3",
+  "action_items": [
+    {"task": "submit the app store build", "owner": "Elena", "deadline_raw": "by Thursday"},
+    {"task": "finish the QA pass on the new build", "owner": "Priya", "deadline_raw": "by Wednesday afternoon"},
+    {"task": "fix the push notification bug", "owner": "Devon", "deadline_raw": "by end of day tomorrow"},
+    {"task": "send a note to the support team about the notification issue", "owner": "Priya", "deadline_raw": "today"},
+    {"task": "have the first draft of the dashboard mockups ready", "owner": "Devon", "deadline_raw": "by next Monday"},
+    {"task": "share the mockups with design for feedback", "owner": "Devon", "deadline_raw": null},
+    {"task": "follow up with the platform team about the vendor decision", "owner": "Devon", "deadline_raw": "by Friday"},
+    {"task": "put together the slides for the all-hands", "owner": "Elena", "deadline_raw": "by end of next week"},
+    {"task": "update the changelog before the release", "owner": "Priya", "deadline_raw": "before Thursday"}
+  ]
+}

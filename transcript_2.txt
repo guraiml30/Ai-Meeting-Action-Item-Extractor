@@ -1,0 +1,10 @@
+[00:00:02] Alex: Quick sync on the launch checklist.
+[00:00:09] Alex: um, so the pricing page copy, that's still pending right?
+[00:00:15] Jordan: Yeah I'll write the new pricing page copy, let's say by next Wednesday.
+[00:00:24] Alex: Cool. Action item: someone needs to test the checkout flow on mobile.
+[00:00:33] Riya: I can do that, I'll test the checkout flow on mobile before end of day tomorrow.
+[00:00:42] Alex: And we already fixed the login bug last sprint, just confirming that's closed.
+[00:00:50] Jordan: Yep, closed.
+[00:00:53] Alex: Let's also get a decision from legal on the new terms of service.
+[00:01:02] Riya: I'll write the new pricing page copy too, just kidding, that's Jordan's.
+[00:01:10] Alex: Ha, okay. That's everything for today.
